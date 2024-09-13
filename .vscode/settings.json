@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "atomic": "cpp",
+        "C_Cpp.intelliSenseEngine": "Default",
+        "cstring": "cpp",
+        "*.tcc": "cpp",
+        "condition_variable": "cpp"
+    }
+    
+}
